@@ -5,8 +5,8 @@
         "columns": "1",
         "unit": "mm",
         "size": {
-            "0": "21",
-            "1": "96"
+            "0": "12",
+            "1": "95"
         },
         "margin-top": "0",
         "margin-left": "0",
@@ -16,8 +16,8 @@
         "margin-footer": "0.0"
     },
     "tag": {
-        "width" : "96",
-        "height" : "21",
+        "width" : "95",
+        "height" : "12",
         "border" : "0",
         "margin-left" : "0"
     }
