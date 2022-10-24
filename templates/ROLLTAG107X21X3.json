@@ -6,10 +6,10 @@
         "unit": "mm",
         "size": {
             "0": "21",
-            "1": "107"
+            "1": "110"
         },
-        "margin-top": "0",
-        "margin-left": "5.0",
+        "margin-top": "2.1",
+        "margin-left": "7.0",
         "margin-right": "0",
         "margin-bottom": "0",
         "margin-header": "0.0",
