@@ -5,10 +5,10 @@
         "columns": "3",
         "unit": "mm",
         "size": {
-            "0": "21",
-            "1": "110"
+            "0": "26",
+            "1": "113"
         },
-        "margin-top": "2.1",
+        "margin-top": "5",
         "margin-left": "7.0",
         "margin-right": "0",
         "margin-bottom": "0",
@@ -16,8 +16,8 @@
         "margin-footer": "0.0"
     },
     "tag": {
-        "width": "33",
-        "height": "21",
+        "width": "34",
+        "height": "26",
         "border": "0",
         "margin-left": "3.0"
     }
